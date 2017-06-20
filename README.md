@@ -36,7 +36,7 @@ $ sudo mv /sbin/mount_ntfs /sbin/mount_ntfs.original
 ```
 
 ```bash
-$  sudo ln -s /usr/local/sbin/mount_ntfs /sbin/mount_ntfs
+$ sudo ln -s /usr/local/sbin/mount_ntfs /sbin/mount_ntfs
 ```
 
 ### 5. Restart your macbook in recovery mode
