@@ -9,7 +9,7 @@ Get and Install OSXFuse from [OSXFuse Website](https://osxfuse.github.io/)
 
 Important: Make sure you check OSXFuse 'MacFUSE Compatibily Layer' checkbox while installing.
   
-## Get it done
+## Get it done:
 
 ### 1. Install ntfs-3g 
 
