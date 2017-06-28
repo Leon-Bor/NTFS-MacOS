@@ -1,4 +1,4 @@
-# Enable NTFS READ/WRITE MacOS 
+# Enable NTFS RITE MacOS in 5 minutes 
 Enable writing to NTFS hard drives for free in Mac OS X.
 
 ## What we need:
