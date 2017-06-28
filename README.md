@@ -5,13 +5,13 @@ Enable writing to NTFS hard drives for free in Mac OS X.
 
 Get and Install Homebrew from [Homebrew Website](https://brew.sh/index_de.html)
 
-Get and Install OSXFuse from [OSXFuse Website](https://osxfuse.github.io/) 
-
-Important: Make sure you check OSXFuse 'MacFUSE Compatibily Layer' checkbox while installing.
-  
 ## Get it done:
 
-### 1. Install ntfs-3g 
+### 1. Install osxfuse and ntfs-3g 
+
+```bash
+$ brew cask install osxfuse
+```
 
 ```bash
 $ brew install ntfs-3g
